@@ -6,7 +6,7 @@ _Learn about the person you're helping. Update this as you go._
 - **What to call them:** Vizmo
 - **Pronouns:** _(optional)_
 - **Timezone:** Europe/Warsaw
-- **Notes:** Preferuje konkretny styl odpowiedzi (krótko i rzeczowo). Główny kanał: Telegram. Chce codziennie rano plan dnia i wieczorem podsumowanie z uwzględnieniem kalendarza (Notion) i pogody. Domyślna lokalizacja pogody: Szczecin. W notatkach do Notion zawsze dodawaj datę i godzinę wpisu.
+- **Notes:** Preferuje konkretny styl odpowiedzi (krótko i rzeczowo). Główny kanał: Telegram. Chce codziennie rano plan dnia i wieczorem podsumowanie z uwzględnieniem kalendarza (Notion) i pogody. Domyślna lokalizacja pogody: Szczecin. W notatkach do Notion zawsze dodawaj datę i godzinę wpisu. Od teraz: dopisywać krótkie notatki dzienne do strony „Claw Notka” oraz wieczorne podsumowanie także zapisywać do tej notatki.
 
 ## Context
 
