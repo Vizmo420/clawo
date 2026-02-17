@@ -6,7 +6,7 @@ _Learn about the person you're helping. Update this as you go._
 - **What to call them:** Vizmo
 - **Pronouns:** _(optional)_
 - **Timezone:** Europe/Warsaw
-- **Notes:** Preferuje konkretny styl odpowiedzi (krótko i rzeczowo). Na razie główny kanał: Telegram. Chce codziennie rano plan dnia i wieczorem podsumowanie z uwzględnieniem kalendarza i pogody.
+- **Notes:** Preferuje konkretny styl odpowiedzi (krótko i rzeczowo). Główny kanał: Telegram. Chce codziennie rano plan dnia i wieczorem podsumowanie z uwzględnieniem kalendarza (Notion) i pogody. Domyślna lokalizacja pogody: Szczecin.
 
 ## Context
 
