@@ -1,66 +1,188 @@
 {
-  "checkedAt": "2026-02-18T09:50:01.155987+00:00",
-  "unreadCount": 2091,
+  "checkedAt": "2026-02-18T09:54:15.124556+00:00",
+  "unreadCount": 2071,
+  "newUnreadCount": 80,
+  "importantNewCount": 1,
+  "importantNew": [
+    {
+      "id": "2253",
+      "from": "Media Expert <sklep@mediaexpert.pl>",
+      "subject": "Faktura VAT do zamówienia 02472087564",
+      "date": "Thu, 12 Feb 2026 20:06:09 +0100"
+    }
+  ],
   "latest": [
     {
-      "id": "2330",
-      "from": "Google <no-reply@accounts.google.com>",
-      "subject": "Alert bezpieczeństwa",
-      "date": "Wed, 18 Feb 2026 09:48:31 GMT"
+      "id": "2297",
+      "from": "AliExpress <transaction@notice.aliexpress.com>",
+      "subject": "Czekam na Twoją opinię",
+      "date": "Mon, 16 Feb 2026 23:53:42 -0800 (PST)"
     },
     {
-      "id": "2329",
-      "from": "Google <no-reply@accounts.google.com>",
-      "subject": "Alert bezpieczeństwa",
-      "date": "Wed, 18 Feb 2026 09:48:28 GMT"
+      "id": "2296",
+      "from": "transaction@notice.aliexpress.com",
+      "subject": "Your order 3066887623700262 is closed",
+      "date": "Mon, 16 Feb 2026 23:53:42 -0800 (PST)"
     },
     {
-      "id": "2328",
-      "from": "Google <no-reply@accounts.google.com>",
-      "subject": "Alert bezpieczeństwa",
-      "date": "Wed, 18 Feb 2026 09:44:07 GMT"
+      "id": "2295",
+      "from": "Akihiko Matsumoto Store <no-reply@sellfymail.com>",
+      "subject": "For Serge-Oriented Producers: Nonlinear Analog Structures in a Modular Sample Archive",
+      "date": "Tue, 17 Feb 2026 06:02:32 +0000"
     },
     {
-      "id": "2327",
-      "from": "Xiaomi Corporation <noreply@notice.xiaomi.com>",
-      "subject": "Xiaomi Account verification",
-      "date": "Wed, 18 Feb 2026 17:16:45 +0800 (CST)"
+      "id": "2294",
+      "from": "\"Instagram\" <notification@priority.instagram.com>",
+      "subject": "tanzen_tanzen_, przejrzyj wspomnienia, które przegapiłeś(-łaś)",
+      "date": "Mon, 16 Feb 2026 17:02:44 -0800"
     },
     {
-      "id": "2325",
-      "from": "GitHub <noreply@github.com>",
-      "subject": "[GitHub] A third-party OAuth application has been added to your\r\n account",
-      "date": "Wed, 18 Feb 2026 01:06:38 -0800"
+      "id": "2293",
+      "from": "\"Booking.com\" <noreply@booking.com>",
+      "subject": "Poinformuj obiekt Piper Dworzec & Targi o godzinie przyjazdu",
+      "date": "Tue, 17 Feb 2026 01:13:26 +0100"
     },
     {
-      "id": "2323",
-      "from": "Xiaomi Corporation <noreply@notice.xiaomi.com>",
-      "subject": "Recovery email changed",
-      "date": "Wed, 18 Feb 2026 16:45:42 +0800 (CST)"
+      "id": "2292",
+      "from": "Steam <noreply@steampowered.com>",
+      "subject": "Twoja niedawna wymiana na Steam",
+      "date": "Mon, 16 Feb 2026 13:05:16 -0800"
     },
     {
-      "id": "2315",
-      "from": "SerpApi <contact@serpapi.com>",
-      "subject": "Welcome to SerpApi!",
-      "date": "Tue, 17 Feb 2026 20:00:30 +0000"
+      "id": "2291",
+      "from": "\"Steam Team\" <noreply@steampowered.com>",
+      "subject": "Nowe logowanie do Steam",
+      "date": "Mon, 16 Feb 2026 12:25:35 -0800"
     },
     {
-      "id": "2314",
-      "from": "Brave Search API <search-api@brave.com>",
-      "subject": "Brave Search API login attempt",
-      "date": "Tue, 17 Feb 2026 19:58:16 +0000"
+      "id": "2290",
+      "from": "Kaufland Card <card@kcard.kaufland.pl>",
+      "subject": "🎁 Wkrótce Twoje urodziny…",
+      "date": "Mon, 16 Feb 2026 17:44:05 +0000"
     },
     {
-      "id": "2313",
-      "from": "Brave Search API <search-api@brave.com>",
-      "subject": "Brave Search API new user created",
-      "date": "Tue, 17 Feb 2026 19:58:09 +0000"
+      "id": "2289",
+      "from": "BassWobble Tv <bingo@patreon.com>",
+      "subject": "This months Presets so far.. (preview)",
+      "date": "Mon, 16 Feb 2026 17:42:23 +0000"
     },
     {
-      "id": "2310",
-      "from": "Kacper z Akademii <marketingab@akademiabrzmienia.pl>",
-      "subject": "Marcin, EQ i Wokale to koszmar?",
-      "date": "17 Feb 2026 19:16:38 -0000"
+      "id": "2288",
+      "from": "BassWobble Tv <bingo@patreon.com>",
+      "subject": "Phaseplant batch 1 [REPOST]",
+      "date": "Mon, 16 Feb 2026 17:26:39 +0000"
+    },
+    {
+      "id": "2287",
+      "from": "Hard Academy <bingo@patreon.com>",
+      "subject": "Serum Phase Werb Pitched Bass 🤮",
+      "date": "Mon, 16 Feb 2026 17:21:37 +0000"
+    },
+    {
+      "id": "2286",
+      "from": "BassWobble Tv <bingo@patreon.com>",
+      "subject": "FEB PRESETS",
+      "date": "Mon, 16 Feb 2026 14:40:19 +0000"
+    },
+    {
+      "id": "2285",
+      "from": "\"Sklep IQOS\" <sklepiqos@e.iqos.com>",
+      "subject": "Aktualizacja klauzuli informacyjnej dotyczącej przetwarzania danych osobowych",
+      "date": "Mon, 16 Feb 2026 06:40:43 -0600"
+    },
+    {
+      "id": "2283",
+      "from": "IdoSell <noreply-pl@idosell.com>",
+      "subject": "Nowości i ważne informacje od IdoSell",
+      "date": "Mon, 16 Feb 2026 11:29:05 +0100"
+    },
+    {
+      "id": "2282",
+      "from": "Allegro <hello@newsletter.allegro.pl>",
+      "subject": "Marcinie, z tym kuponem zapłacisz 20 zł mniej 🎟️",
+      "date": "Mon, 16 Feb 2026 11:37:55 +0100 (CET)"
     }
+  ],
+  "seenIds": [
+    "2231",
+    "2287",
+    "2249",
+    "2250",
+    "2272",
+    "2262",
+    "2200",
+    "2257",
+    "2286",
+    "2283",
+    "2237",
+    "2260",
+    "2297",
+    "2282",
+    "2253",
+    "2292",
+    "2289",
+    "2256",
+    "2205",
+    "2291",
+    "2217",
+    "2243",
+    "2233",
+    "2294",
+    "2271",
+    "2215",
+    "2251",
+    "2238",
+    "2275",
+    "2263",
+    "2268",
+    "2197",
+    "2204",
+    "2265",
+    "2248",
+    "2244",
+    "2293",
+    "2203",
+    "2270",
+    "2229",
+    "2228",
+    "2232",
+    "2198",
+    "2226",
+    "2246",
+    "2290",
+    "2230",
+    "2220",
+    "2295",
+    "2254",
+    "2267",
+    "2276",
+    "2252",
+    "2234",
+    "2242",
+    "2258",
+    "2288",
+    "2255",
+    "2266",
+    "2227",
+    "2235",
+    "2247",
+    "2296",
+    "2219",
+    "2225",
+    "2259",
+    "2264",
+    "2213",
+    "2221",
+    "2285",
+    "2236",
+    "2199",
+    "2241",
+    "2245",
+    "2261",
+    "2202",
+    "2269",
+    "2216",
+    "2201",
+    "2224"
   ]
 }
